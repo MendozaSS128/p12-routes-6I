@@ -26,3 +26,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/4e453d02-1eb6-4388-bf7a-41b6a6864284)
 ![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/37c05a8d-58fa-466a-9e45-93f89f392545)
+
+## Actualizado
+
+![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/5eafc710-4d53-4a9b-ad65-2b597e2b01c1)
+![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/14b8989f-4d8e-4682-b124-53b8079dd1fc)
+
