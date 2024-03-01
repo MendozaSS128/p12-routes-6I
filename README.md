@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Ejemplo de Routes entre Paginas: FlutLab - Flutter Online IDE
-Link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
-Selma Mendoza: a.21308051280386@cbtis128.edu.mx
+- Link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+- Selma Mendoza: a.21308051280386@cbtis128.edu.mx
 
 ## Resultado de mi aplicacion en FlutLab
 
