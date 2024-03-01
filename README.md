@@ -17,3 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Ejemplo de Routes entre Paginas: FlutLab - Flutter Online IDE
+Link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+Selma Mendoza: a.21308051280386@cbtis128.edu.mx
+
+## Resultado de mi aplicacion en FlutLab
+
+![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/4e453d02-1eb6-4388-bf7a-41b6a6864284)
+![image](https://github.com/MendozaSS128/p12-routes-6I/assets/143743763/37c05a8d-58fa-466a-9e45-93f89f392545)
